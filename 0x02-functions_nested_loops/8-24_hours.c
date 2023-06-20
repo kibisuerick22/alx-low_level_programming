@@ -2,7 +2,7 @@
 
 
 /**
- * jack_bauer -  a function that prints every minute of the day of Jack Bauer.
+ * jack_bauer - A function that prints every minute of the day of Jack Bauer.
  * Return: ...
  */
 
@@ -23,7 +23,7 @@ int jack_bauer(void)
 	{
 	_putchar(j + '0');
 	_putchar(k + '0');
-	_putachar(58);
+	_putchar(58);
 	_putchar(l + '0');
 	_putchar(m + '0');
 	_putchar('\n');
