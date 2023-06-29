@@ -1,11 +1,10 @@
 #include <stdio.h>
 
-
 /**
-* main - Magic does not exist
-*
-* Return: always 0 (success).
-*/
+ * main - magic does not exist.
+ * Return: always 0 (success)
+ */
+
 int main(void)
 {
 int n;
